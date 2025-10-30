@@ -6,7 +6,7 @@ Student: Tobe Onyekwelu
 Instructor: Dr. Legand Burge
 Institution: Howard University
 
-🧠 Overview
+ Overview
 
 Quash is a simple UNIX-like command shell implemented in C.
 It supports basic shell functionalities including:
@@ -27,7 +27,7 @@ Piping (|) between commands
 
 This project deepens understanding of process control, signals, and I/O redirection in Linux-based systems.
 
-⚙️ Features and Design
+ Features and Design
 1. Built-in Commands
 
 Implemented directly in the shell:
@@ -78,7 +78,7 @@ Example:
 
 cat scores | grep Lakers
 
-🧪 Example Usage
+ Example Usage
 /home/codio/workspace> pwd
 /home/codio/workspace
 
@@ -101,7 +101,7 @@ Utah 44 28 .611
 Houston 44 28 .611
 Oklahoma City 44 28 .611
 
-🧩 Key System Calls Used
+ Key System Calls Used
 Function	Purpose
 getcwd()	Get current directory
 chdir()	Change directory
@@ -113,7 +113,7 @@ alarm()	Trigger timeout
 kill()	Terminate a process
 dup2()	Duplicate file descriptors
 open()	File I/O redirection
-🧠 Learning Outcomes
+ Learning Outcomes
 
 By completing this project, I learned:
 
